@@ -1,0 +1,3 @@
+{
+    "ConnectionString":"HostName=YourIoTHub.azure-devices.net;SharedAccessKeyName=iothubowner;SharedAccessKey=J8Lx/t/erdfZSFzhSi7/IH/x/8Ym1PLgJrhkjahdkY="
+}
