@@ -23,11 +23,12 @@ Modify with your Azure IoT Hub Connection String
 # Commands
 
 
+
 Action| Command
 ------|------
-New Device| python(3) iothub.py new deviceId
-Delete Device| python(3) iothub.py delete deviceId
-List All Devices| python(3) iothub.py List
-Device Info| python(3) iothub.py info deviceId
-Device Connection String| python(3) iothub.py cs deviceId
+New Device| python(3) manage.py new deviceId
+Delete Device| python(3) manage.py delete deviceId
+List All Devices| python(3) manage.py List
+Device Info| python(3) manage.py info deviceId
+Device Connection String| python(3) manage.py cs deviceId
 
