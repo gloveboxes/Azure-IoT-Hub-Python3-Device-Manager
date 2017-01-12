@@ -8,7 +8,7 @@ Any supporting Python3
 
 # Libraries
 
-Solutions uses requests.
+This applicaton uses the requests library.
 
 To install
 
