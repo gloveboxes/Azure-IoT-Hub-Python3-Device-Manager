@@ -16,9 +16,12 @@ pip3 install requests
 
 # Config File
 
-config.json
 
-Modify with your Azure IoT Hub Connection String
+
+See [Setting up Azure IoT Hub](http://thinglabs.io/workshop/cs/nightlight/setup-azure-iot-hub/)
+for information of where to obtain the connection string from.
+
+Edit the config.json and replace the connection string with your Azure IoT Hub Connection String.
 
 # Commands
 
